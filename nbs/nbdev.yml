@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://TowfiqDL.github.io/nbdev_tutorial"
+  description: "It's a mock repo, to test nbdev module. Nbdev is a online platform to create a Module for Python."
+  repo-branch: main
+  repo-url: "https://github.com/TowfiqDL/nbdev_tutorial"
